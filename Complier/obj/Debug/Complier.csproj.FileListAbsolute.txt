@@ -1,0 +1,5 @@
+/Users/huayun/Desktop/c#project/Complier/Complier/obj/Debug/Complier.csprojResolveAssemblyReference.cache
+/Users/huayun/Desktop/c#project/Complier/Complier/bin/Debug/Complier.exe
+/Users/huayun/Desktop/c#project/Complier/Complier/bin/Debug/Complier.exe.mdb
+/Users/huayun/Desktop/c#project/Complier/Complier/obj/Debug/Complier.exe
+/Users/huayun/Desktop/c#project/Complier/Complier/obj/Debug/Complier.exe.mdb
